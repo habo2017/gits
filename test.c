@@ -5,6 +5,7 @@ int main()
 	printf("Hello, github!\n");
 
 	printf("The Max value is: %d\n", max(4, 10));
+	min(3, 4);
 
 	return 0;
 }
